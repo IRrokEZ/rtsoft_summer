@@ -1,0 +1,3 @@
+/home/irrokez/rtsoft_summer/task1/build/CMakeFiles/rebuild_cache.dir
+/home/irrokez/rtsoft_summer/task1/build/CMakeFiles/hello.dir
+/home/irrokez/rtsoft_summer/task1/build/CMakeFiles/edit_cache.dir
