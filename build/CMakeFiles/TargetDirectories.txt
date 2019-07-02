@@ -1,0 +1,3 @@
+/rtsoft_summer/rtsoft_summer/build/CMakeFiles/edit_cache.dir
+/rtsoft_summer/rtsoft_summer/build/CMakeFiles/rebuild_cache.dir
+/rtsoft_summer/rtsoft_summer/build/CMakeFiles/fb0.dir
